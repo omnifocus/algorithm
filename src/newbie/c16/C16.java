@@ -1,7 +1,9 @@
 package newbie.c16;
 
-import algorithm.newbie.c5.C5;
-import algorithm.newbie.c6.C6;
+
+
+import newbie.c5.C5;
+import newbie.c6.C6;
 
 import java.util.HashMap;
 import java.util.Map;

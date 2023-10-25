@@ -1,6 +1,7 @@
 package newbie.c17;
 
-import algorithm.newbie.c16.C16;
+
+import newbie.c16.C16;
 
 import java.util.Arrays;
 

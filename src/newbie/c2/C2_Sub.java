@@ -1,6 +1,7 @@
 package newbie.c2;
 
-import algorithm.newbie.c1.C1_5;
+
+import newbie.c1.C1_5;
 
 /**
  * 取一个数的相反数
